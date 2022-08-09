@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "UE84ptU3C2jS7fg53mKZ7HebN/pbWh+ObSjVvK/RGirBF77LkvPuNZpQ9gEjw6KurAfPyr4ky4DTfyrHH7ilbg==",
+  "success": true,
+  "projectFilePath": "D:\\Primer Proyecto En Xamarin\\MI_CARD\\MI_CARD\\MI_CARD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Misael Beriguete\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Misael Beriguete\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Misael Beriguete\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Misael Beriguete\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Misael Beriguete\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
